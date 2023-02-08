@@ -1,0 +1,19 @@
+{
+"networks": [
+{
+"SSID": "WIFI DE HOGAR",
+"SignalStrength":80
+},
+{
+"SSID": "MEGABLOK WIFI",
+"SignalStrength":20
+},
+{
+"SSID": "TP-LINK2884",
+"SignalStrength":40
+},
+{
+"SSID": "MEGABLOK WIFI",
+"SignalStrength":80
+}]
+}
